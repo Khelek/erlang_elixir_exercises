@@ -1,0 +1,5 @@
+v1.
+{<<"_build/test/lib/mixerlang/ebin/Elixir.KV.beam">>,'Elixir.KV',
+ <<"lib/mixerlang.ex">>,
+ ['Elixir.Kernel'],
+ [],[],nil}.
